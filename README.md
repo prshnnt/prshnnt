@@ -187,9 +187,9 @@ Computer Science Engineering student at **Bundelkhand Institute of Engineering a
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prshnnt/prshnnt/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prshnnt/prshnnt/output/github-snake-light.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/prshnnt/prshnnt/output/github-snake-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake-light.svg">
+  <img alt="GitHub contribution snake" src="./dist/github-snake-dark.svg" width="100%" />
 </picture>
 </div>
 
