@@ -58,7 +58,7 @@ Computer Science Engineering student at **Bundelkhand Institute of Engineering a
 - 🤖 **Agentic AI & LLMs:** Hands-on experience engineering autonomous multi-agent workflows, domain-specific prompt engineering, fine-tuning, and robust RAG pipelines.
 - ⚡ **Full-Stack Craftsmanship:** Architecting scalable backends using **Python** (FastAPI, Django) and **Node.js**, paired with responsive modern frontends in **React.js**.
 - 📐 **Engineering Rigor:** Strong foundation in Data Structures, Algorithms, System Design, RESTful API design, and SQL/vector databases.
-- 🎯 **Leadership & Innovation:** National-level hackathon finalist (Smart India Hackathon) and Gold Medal Winner at COSCO Synergia.
+- 🎯 **Leadership & Innovation:** National-level hackathon finalist (Smart India Hackathon) and Gold Medal Winner at COSSCO Synergia.
 
 ---
 
